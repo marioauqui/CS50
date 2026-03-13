@@ -9,6 +9,7 @@ def dollars_to_float(d):
     d.replace("$","")
     d = float(d)
 
+
     return d
 
 
